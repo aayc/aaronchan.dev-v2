@@ -6,6 +6,9 @@ import SEO from "./seo"
 import Avatar from "./avatar"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faGithub, faTwitter, faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { config } from "@fortawesome/fontawesome-svg-core"
+import "@fortawesome/fontawesome-svg-core/styles.css"
+config.autoAddCss = false
 
 export default function WithSideBar({ children, showMore }) {
   return (
@@ -19,13 +22,13 @@ export default function WithSideBar({ children, showMore }) {
               <br />
               <br />
               <a href="https://github.com/aayc" rel="noopener noreferrer" target="_blank">
-                <FontAwesomeIcon className="mr-6 media-icon" icon={faGithub} />
+                <FontAwesomeIcon className="mr-6 media-icon" style={{fontSize: "1.2rem"}} icon={faGithub} />
               </a>
               <a href="https://twitter.com/aaronychan" rel="noopener noreferrer" target="_blank">
-                <FontAwesomeIcon className="mr-6 media-icon" icon={faTwitter} />
+                <FontAwesomeIcon className="mr-6" style={{fontSize: "1.2rem"}} icon={faTwitter} />
                </a>
               <a href="https://linkedin.com/in/aaron-y-chan" rel="noopener noreferrer" target="_blank">
-                <FontAwesomeIcon className="media-icon" icon={faLinkedin} />
+                <FontAwesomeIcon className="media-icon" style={{fontSize: "1.2rem"}} icon={faLinkedin} />
                </a>
                <div className="mt-4">
               {showMore ? 

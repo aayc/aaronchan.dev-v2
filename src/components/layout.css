@@ -632,10 +632,6 @@ pre tt:after {
   content: "";
 }
 
-.media-icon {
-  font-size: 1.22rem;
-}
-
 @media only screen and (max-width: 480px) {
   html {
     font-size: 100%;
