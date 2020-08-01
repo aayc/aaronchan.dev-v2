@@ -17,13 +17,21 @@ export default function WithSideBar({ children, showMore }) {
             <center>
               <Avatar />
               <br />
-              <a href="https://github.com/aayc" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon className="mr-2" icon={faGithub} /></a>
-              <a href="https://twitter.com/aaronychan" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon className="mr-2" icon={faTwitter} /></a>
-              <a href="https://linkedin.com/in/aaron-y-chan" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faLinkedin} /></a>
               <br />
+              <a href="https://github.com/aayc" rel="noopener noreferrer" target="_blank">
+                <FontAwesomeIcon className="mr-6 media-icon" icon={faGithub} />
+              </a>
+              <a href="https://twitter.com/aaronychan" rel="noopener noreferrer" target="_blank">
+                <FontAwesomeIcon className="mr-6 media-icon" icon={faTwitter} />
+               </a>
+              <a href="https://linkedin.com/in/aaron-y-chan" rel="noopener noreferrer" target="_blank">
+                <FontAwesomeIcon className="media-icon" icon={faLinkedin} />
+               </a>
+               <div className="mt-4">
               {showMore ? 
-                <Link to="/archive" className="text-sm floating-outline cursor-pointer">more posts</Link> 
+                <Link to="/archive" className="text-md mt-4 floating-outline cursor-pointer">more posts</Link> 
                 : <></>}
+              </div>
             </center>
           </div>
         </div>

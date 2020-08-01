@@ -6,7 +6,7 @@ function Avatar(props) {
     query {
       placeholderImage: file(relativePath: { eq: "aaron.jpg" }) {
         childImageSharp {
-          fixed(width: 250, height: 250) {
+          fixed(width: 300, height: 300) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -15,8 +15,8 @@ function Avatar(props) {
   `)
   const {url, altText, title} = props;
   const styles = {
-    width: '100px',
-    height: '100px',
+    width: '120px',
+    height: '120px',
     borderRadius: '50%',
     boxShadow: "0 0 98px 6px rgba(0, 0, 0, 0.2)"
   }
