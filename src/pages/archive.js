@@ -3,7 +3,6 @@ import WithSideBar from "../components/with-sidebar";
 import { Link } from "gatsby"
 
 export default function Archive({ data }) {
-  console.log(JSON.stringify(data))
   const { markdown } = data
   const { edges } = markdown
   return (<WithSideBar>

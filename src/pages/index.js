@@ -1,5 +1,5 @@
 import React from "react"
-import Template from "./blog/template"
+import Template from "../templates/blog-template"
 
 export default function IndexPage({ data }) {
   let latestPost = data.markdown.edges[0].node
