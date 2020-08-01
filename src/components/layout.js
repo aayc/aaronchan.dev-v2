@@ -26,19 +26,17 @@ const Layout = ({ children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <div
+      <div className="m-auto max-w-2xl"
         style={{
-          margin: `0 auto`,
-          maxWidth: 960,
           padding: `0 1.0875rem 1.45rem`,
         }}
       >
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
+        <center>
+          {/* <footer className="text-sm text-gray-600">
+            © {new Date().getFullYear()} Aaron Chan
+          </footer> */}
+        </center>
       </div>
     </>
   )
