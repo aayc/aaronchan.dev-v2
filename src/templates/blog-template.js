@@ -15,7 +15,7 @@ export default function Template({ data }) {
   return (
     <WithSideBar showMore={true}>
       <h1>{frontmatter.title}</h1>
-      <h5>{frontmatter.date_string}</h5>
+      <h4>{frontmatter.date_string}</h4>
       <div dangerouslySetInnerHTML={{__html: fmtHtml2}}></div>
     </WithSideBar>
   )

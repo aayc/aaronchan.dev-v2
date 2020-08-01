@@ -8,7 +8,7 @@ const Header = ({ siteTitle }) => (
       marginBottom: `1.45rem`,
     }}
   >
-    <div className="m-0 m-auto max-w-2xl"
+    <div className="m-0 m-auto max-w-3xl"
       style={{ padding: `1.45rem 1.0875rem`, }}
     >
       <div className="float-right">

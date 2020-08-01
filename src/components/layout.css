@@ -77,7 +77,6 @@ dfn {
   font-style: italic;
 }
 h1 {
-  font-size: 2em;
   margin: 0.67em 0;
 }
 mark {
@@ -635,5 +634,29 @@ pre tt:after {
 @media only screen and (max-width: 480px) {
   html {
     font-size: 100%;
+  }
+}
+
+@media (min-width: 1200px) {
+  h1 {
+    font-size: 2.65rem;
+  }
+  h2 {
+    font-size: 1.62671rem;
+  }
+  h3 {
+    font-size: 1.38316rem;
+  }
+  h4 {
+    font-size: 1rem;
+  }
+  h5 {
+    font-size: 0.85028rem;
+  }
+  h6 {
+    font-size: 0.78405rem;
+  }
+  p {
+    font-size: 1.2rem;
   }
 }

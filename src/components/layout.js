@@ -26,7 +26,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <div className="m-auto max-w-2xl"
+      <div className="m-auto max-w-3xl"
         style={{
           padding: `0 1.0875rem 1.45rem`,
         }}
