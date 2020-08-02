@@ -12,12 +12,21 @@ const Header = ({ siteTitle }) => (
       style={{ padding: `1.45rem 1.0875rem`, }}
     >
       <div className="float-right">
-        <h4 className="inline mr-4 floating-outline cursor-pointer">
-          About
-        </h4>
-        <h4 className="inline floating-outline cursor-pointer">
-          Contact
-        </h4>
+        <Link to="/archive">
+          <h4 className="inline mr-4 floating-outline cursor-pointer">
+          posts
+          </h4>
+        </Link>
+        <Link to="/about">
+          <h4 className="inline mr-4 floating-outline cursor-pointer">
+          about
+          </h4>
+        </Link>
+        <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/aaron-y-chan/">
+          <h4 className="inline floating-outline cursor-pointer">
+            contact
+          </h4>
+        </a>
       </div>
     </div>
   </header>
