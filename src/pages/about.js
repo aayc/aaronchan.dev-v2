@@ -18,11 +18,11 @@ export default function About() {
       <p>
         I'm exceptionally good at solving software engineering problems thoroughly, then clearly explaining the problem and the solution so that we all benefit.  I love collaborating on projects!
       </p>
-      {/* <p>
-        <a href="#" className="text-blue-600" rel="noopener noreferrer" target="_blank">
+      <p>
+        <a href="https://drive.google.com/uc?export=download&id=15Eug7ThFA9UjFSvCY23JMV-w2yV7fTDm" className="text-blue-600" rel="noopener noreferrer" target="_blank">
           Here's my resume in case you're looking to hire.
         </a>
-      </p> */}
+      </p>
     </WithSideBar>
   )
 }

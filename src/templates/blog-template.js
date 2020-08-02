@@ -11,11 +11,13 @@ export default function Template({ data }) {
     var html = markdown.html
     var frontmatter = markdown.frontmatter;
   }
-  const fmtHtml2 = html.replace(/<ul/g, "<ul className='list-disc'").replace(/<h3/g, "<br /><h3")
+  const fmtHtml = html.replace(/<a href/g, "<a target='blank' rel='noopener noreferrer' class='text-blue-600' href")
+  const fmtHtml2 = fmtHtml.replace(/<ul/g, "<ul className='list-disc'")
   return (
     <WithSideBar showMore={true}>
       <h1>{frontmatter.title}</h1>
       <h4>{frontmatter.date_string}</h4>
+      
       <div dangerouslySetInnerHTML={{__html: fmtHtml2}}></div>
     </WithSideBar>
   )
