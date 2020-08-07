@@ -7,7 +7,7 @@ category: ""
 --- 
 I was a data science intern at Microsoft this summer, working on code completion models for VS Code and PowerShell.  If you're a developer, I hope I'll save you some typing :)
 
-The biggest post-internship regret I usually have is, "Why didn't I talk to more people about deeper things?"  I always spend plenty of time asking questions about syntax, best practices, and strategy.  But, I often missed out on asking about life, experiences and values.  Asking my full time colleagues about that stuff seemed...awkward.
+In my previous internships, the biggest regret I had was, "Why didn't I talk to more people about deeper things?"  I always spent plenty of time asking questions about syntax, best practices, and strategy.  But, I often missed out on asking about life, experiences and values.  Asking my full time colleagues about that stuff seemed...awkward.
 
 This summer I was determined to ask more questions that matter.  Here are three big takeaways that stuck with me from my conversations.
 
@@ -21,7 +21,7 @@ But if you're all-in on graduate school then people will remember that.  If you'
 
 Second, having a specific thing you love to do will help you decide whether to say yes or no to opportunities and investments in yourself.  I have a bad habit of filling up my plate and telling myself that I can't miss all these great opportunities.  Instead, I unknowingly paid a different price: I gained all the short term rewards of learning, but fewer of the long term rewards of finishing.  If I continue to procrastinate being specific with what I want, I might wake up in 5 years and realize that I know a lot but haven't accomplished anything big.
 
-Lately I've been struggling between focusing on graduate school and entrepreneurship during my next year in school.  Here's what helped me decide: if I could choose to get calls from friends, would I prefer those calls to be about interesting product ideas, or interesting research ideas?  Then it was clear: product ideas.  Would I rather have a great research paper or a small successful business?  Business, definitely.  So, I quit my research job.
+Lately I've been struggling between focusing on graduate school and entrepreneurship during my next year in school.  Here's what helped me decide: if I could choose to get calls from friends, would I prefer those calls to be about interesting product ideas, or interesting research ideas?  Then it was clear: product ideas.  Would I rather have a great research paper or a small successful business?  Business, definitely.  
 
 ### Takeaway #2: Stories are the key to presentations
 The most frequent phrase I heard at MSFT in the Developer Tools division data science team regarding presentations was "telling stories."  People don't always understand data, but data tells stories, and people understand stories.
@@ -42,4 +42,4 @@ Now flip the scenario.  You and Tom disagree, but you have the compassion to sto
 
 This is the kind of thing that I will pay attention to when I'm evaluating my leaders.  Do they have both the courage of their convictions and also the compassion required to understand their coworkers?  Do they have a clear vision of everyone's shared goal?  Before, I hadn't really thought about it.  There were some leaders I liked and others I didn't like and I wasn't sure why.  I think that knowing why is an important step to joining good teams, and becoming the kind of person and leader that I look up to.
 
-Thanks for reading :) I hope that you enjoyed my takeaways and learned something too!
+Thanks for reading :)

@@ -7,7 +7,6 @@ export default function About() {
       <h1>Hi, I'm Aaron!</h1>
       <p>
         I'm an undergraduate student at Brigham Young University studying Computer Science and Statistics.  
-        I'm a former Facebooker, MSFT rockstar and attempted pizza salesman.  
         I used to compete in programming competitions and teach Competitive Coding at BYU.
         I've done research in ML (handwriting) and security (Signal protocol).
         I also play the piano, cello and a bit of percussion.
