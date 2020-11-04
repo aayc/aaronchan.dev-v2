@@ -16,4 +16,4 @@ Our meetings have always been pretty adhoc and it's funny how quickly dreams bec
 
 Launching Matchmaker BYU was a pretty humbling experience. Although I feel like my technical chops are pretty decent, it is so obvious that technical ability is not what drives businesses. If we had launched something incredibly complex but hard to use, or hard to explain, or not needed, then we would have been less successful than Matchmaker BYU. Technical skills are necessary, but not sufficient, for the kind of success that I crave.
 
-We're going to give Matchmaker the best chances at being successful, which means there's a lot of technical work to do. Check us out on [Instagram](https://instagram.com/matchmakerbyu)
+We're going to give Matchmaker the best chances at being successful, which means there's a lot of technical work to do. Check us out on [Instagram](https://instagram.com/matchmakerbyu)!
