@@ -12,7 +12,7 @@ const Header = () => {
       }}
     >
       <div
-        className="m-0 m-auto max-w-3xl"
+        className="m-auto max-w-3xl"
         style={{ padding: `1.45rem 1.0875rem` }}
       >
         <div className="float-right">
