@@ -6,7 +6,7 @@ title: "Matchmaker BYU"
 category: ""
 ---
 
-I launched a website called [Matchmaker BYU](www.matchmakerbyu.com) recently, and at this point in time we've had over 2000 students respond! I wanted to share some general information about this awesome, super short lived journey.
+I launched a website called [Matchmaker BYU](https://www.matchmakerbyu.com) recently, and at this point in time we've had over 2000 students respond! I wanted to share some general information about this awesome, super short lived journey.
 
 The website is not a technical marvel, I built it in 2 weeks. It's React + Firebase, a simple stateful survey and some cloud functions. What makes it cool is the people that join on and tell others to join. The design, marketing (we printed 4000 flyers and put them places ourselves), and social media efforts were a huge help as well. I honestly was so impressed with the attention that it received and is still receiving, and it's been awesome to be a part of.
 
@@ -16,4 +16,4 @@ Our meetings have always been pretty adhoc and it's funny how quickly dreams bec
 
 Launching Matchmaker BYU was a pretty humbling experience. Although I feel like my technical chops are pretty decent, it is so obvious that technical ability is not what drives businesses. If we had launched something incredibly complex but hard to use, or hard to explain, or not needed, then we would have been less successful than Matchmaker BYU. Technical skills are necessary, but not sufficient, for the kind of success that I crave.
 
-We're going to give Matchmaker the best chances at being successful, which means there's a lot of technical work to do. Check us out on [Instagram](instagram.com/matchmakerbyu)
+We're going to give Matchmaker the best chances at being successful, which means there's a lot of technical work to do. Check us out on [Instagram](https://instagram.com/matchmakerbyu)
