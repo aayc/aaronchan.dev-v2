@@ -1,6 +1,6 @@
 ---
 path: "/blog/cannibalize"
-date: "2020-08-01"
+date: "2020-11-04"
 date_string: "November 4th, 2020"
 title: "Cannibalizing my projects"
 category: ""
